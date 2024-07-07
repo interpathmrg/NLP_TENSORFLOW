@@ -1,0 +1,47 @@
+Candidate: CV _Aleksei Martinez_ESP_V.04 (2).pdf, Similarity: 1.022917264699936
+[2] Candidate: CV Madel Martinez.pdf, Similarity: 1.0209377229213716
+[3] Candidate: CV Ricardo Williams....pdf, Similarity: 1.007973337173462
+[4] Candidate: CV Juana.pdf, Similarity: 0.9897902309894563
+[5] Candidate: CV ValentinaPimentelc.pdf, Similarity: 0.9750486373901368
+[6] Candidate: CV Gerard Rosario (1).pdf, Similarity: 0.9468183994293213
+[7] Candidate: CV Yennifer Mojica.pdf, Similarity: 0.9432409048080445
+[8] Candidate: CV Ismael Anglada 2020 (2).pdf, Similarity: 0.9092469036579133
+
+
+1] Candidate: CV Lic. Darianny Angomas (1)-1.pdf, Similarity: 0.9464742541313171
+[2] Candidate: CV BIANCA CUARTERO.pdf, Similarity: 0.9462024569511414
+[3] Candidate: CV Maria Esther Vasquez.pdf, Similarity: 0.9459234476089478
+[4] Candidate: CV Angel Ma. Belen Ozuna.pdf, Similarity: 0.9429621696472168
+[5] Candidate: CV Iraida Paredes.pdf, Similarity: 0.9410455226898193
+[6] Candidate: Anyuli Guerrero.pdf, Similarity: 0.9383216500282288
+[7] Candidate: Luis+Daniel+Rodríguez+Rondón (3).pdf, Similarity: 0.9374396204948425
+[8] Candidate: CV español updated- Eymi Vargas.pdf, Similarity: 0.9351174831390381
+[9] Candidate: CV Katherine Medina..pdf, Similarity: 0.9347856044769287
+[10] Candidate: Curriculo Lyan.pdf, Similarity: 0.9336742758750916
+
+[*] Resultados:
+[1] Candidate: CV _Aleksei Martinez_ESP_V.04 (2).pdf, Similarity: 1.394987404346466
+[2] Candidate: CV Madel Martinez.pdf, Similarity: 1.3923969268798828
+[3] Candidate: CV Juana.pdf, Similarity: 1.3497596383094788
+[4] Candidate: CV ValentinaPimentelc.pdf, Similarity: 1.3301525115966797
+[5] Candidate: Betzabeth Molina CV.pdf, Similarity: 1.294264554977417
+[6] Candidate: CV Gerard Rosario (1).pdf, Similarity: 1.2913593649864197
+[7] Candidate: CV Yennifer Mojica.pdf, Similarity: 1.28684601187706
+[8] Candidate: CV OLIVER FELIZ_240111_081653.pdf, Similarity: 1.2600546777248383
+[9] Candidate: CV Melisa Maria.pdf, Similarity: 1.2591590881347656
+[10] Candidate: CV Ismael Anglada 2020 (2).pdf, Similarity: 1.2398512959480286
+
+TENSORFLOW
+
+[1] Candidate: CV _Aleksei Martinez_ESP_V.04 (2).pdf, Similarity: 1.0229720771312714
+[2] Candidate: CV Madel Martinez.pdf, Similarity: 1.0209697842597962
+[3] Candidate: CV Ricardo Williams.pdf, Similarity: 1.0080895841121675
+[4] Candidate: CV Juana.pdf, Similarity: 0.9897365331649781
+[5] Candidate: CV Gerard Rosario (1).pdf, Similarity: 0.9469056010246277
+[6] Candidate: CV Yennifer Mojica.pdf, Similarity: 0.9435465037822724
+[7] Candidate: CV OLIVER FELIZ_240111_081653.pdf, Similarity: 0.9240429818630219
+[8] Candidate: CV Melisa Maria.pdf, Similarity: 0.9233609080314636
+[9] Candidate: CV Ismael Anglada 2020 (2).pdf, Similarity: 0.909169602394104
+[10] Candidate: CV Jesus Gonzalez.pdf, Similarity: 0.8907724916934968
+
+

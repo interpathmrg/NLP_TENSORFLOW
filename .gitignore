@@ -1,0 +1,11 @@
+# Ignorar el directorio build/
+
+
+# Ignorar todos los archivos .log
+*.log
+
+# Ignorar la carpeta temp/ y todo su contenido
+venv/
+
+# Ignorar un archivo específico
+

@@ -1,0 +1,19 @@
+{
+    "inventario": 1.3,
+    "mercancía": 1.3,
+    "materiales": 1.3,
+    "suministro": 1.3,
+    "repuesto": 1.3,
+    "combustible": 1.6,
+    "abastecimiento": 1.2,
+    "abasto": 1.2,
+    "mm": 1.2,
+    "logística": 1.2,
+    "logistica": 1.2,
+    "transporte": 1.3,
+    "almacén": 1.5,
+    "almacen": 1.5,
+    "importación": 1.4,
+    "importacion": 1.4,
+    "flete": 1.4
+}
